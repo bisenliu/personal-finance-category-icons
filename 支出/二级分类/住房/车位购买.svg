@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/住房/车位购买"><title>支出/住房/车位购买</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <rect x="88" y="105" width="140" height="176" rx="16" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+      <path d="M137 238V145h36c45 0 45 60 0 60h-36M158 281v106" fill="none" stroke="#354754" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M274 154h130v225H274Z" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
+      <path d="M297 206h87m-87 37h87m-87 37h59" stroke="#354754" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="355" cy="337" r="35" fill="#D89752" stroke="#354754" stroke-width="9"/>
+    </svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="支出/住房/房屋税费" role="img" viewBox="0 0 512 512"><title>支出/住房/房屋税费</title><ellipse cx="256" cy="430" fill="#354754" opacity=".13" rx="180" ry="17" /><svg fill="none" height="408" stroke="#354754" stroke-linecap="round" stroke-linejoin="round" stroke-width=".68" viewBox="0 0 24 24" width="408" x="52" y="40"><g stroke="none"><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" fill="#B9E2E4" /></g><g fill="none"><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" /><path d="M14 2v5a1 1 0 0 0 1 1h5" /><path d="M10 9H8" /><path d="M16 13H8" /><path d="M16 17H8" /></g></svg><g><g transform="translate(306 313) scale(0.39)">
+  <path d="m23 136 127-105 127 105v139H23V136Z" fill="#FFF2D5" stroke="#354754" stroke-linejoin="round" stroke-width="11" />
+  <path d="m9 140 141-118 141 118" fill="none" stroke="#354754" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
+  <path d="M115 275v-92h69v92" fill="#B9E2E4" stroke="#354754" stroke-width="9" />
+  <path d="M46 170h45v46H46Z" fill="#B9E2E4" stroke="#354754" stroke-width="7" />
+</g></g></svg>

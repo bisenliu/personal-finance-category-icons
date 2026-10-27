@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/补贴/津贴/住房补贴"><title>收入/补贴/津贴/住房补贴</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(75 75) scale(1.03)">
+  <path d="m23 136 127-105 127 105v139H23V136Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="m9 140 141-118 141 118" fill="none" stroke="#354754" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 275v-92h69v92" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
+  <path d="M46 170h45v46H46Z" fill="#B9E2E4" stroke="#354754" stroke-width="7"/>
+</g><circle cx="366" cy="334" r="70" fill="#D89752" stroke="#354754" stroke-width="10"/><circle cx="366" cy="334" r="53" fill="#FFF2D5" stroke="#354754" stroke-width="6"/><path d="M366 289v90m16 -49c-9-12-32-9-32 4 0 17 34 8 34 24 0 14-24 17-34 6" fill="none" stroke="#354754" stroke-width="6" stroke-linecap="round"/></svg>

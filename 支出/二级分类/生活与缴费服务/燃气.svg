@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/生活与缴费服务/燃气"><title>支出/生活与缴费服务/燃气</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M101 222h310v154c0 19-16 35-35 35H136c-19 0-35-16-35-35V222Z" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <path d="M101 286h310" stroke="#354754" stroke-width="9"/>
+      <ellipse cx="184" cy="246" rx="47" ry="17" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <ellipse cx="328" cy="246" rx="47" ry="17" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <path d="M256 90c-42 49-25 74-7 88-2-31 25-48 40-62 30 45 24 83-4 101-29 18-68 2-68-31 0-33 21-63 39-96Z" fill="#D89752" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
+      <circle cx="185" cy="344" r="14" fill="#FFF2D5" stroke="#354754" stroke-width="7"/>
+      <circle cx="256" cy="344" r="14" fill="#FFF2D5" stroke="#354754" stroke-width="7"/>
+      <circle cx="327" cy="344" r="14" fill="#FFF2D5" stroke="#354754" stroke-width="7"/>
+    </svg>

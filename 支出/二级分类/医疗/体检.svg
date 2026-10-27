@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/医疗/体检">
+  <title>支出/医疗/体检</title>
+  <ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+  <rect x="120" y="123" width="265" height="286" rx="22" fill="#FFF2D5" stroke="#354754" stroke-width="12"/>
+  <path d="M202 115c0-16 12-28 28-28h45c16 0 28 12 28 28v31H202v-31Z" fill="#B9E2E4" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
+  <path d="m164 215 11 12 20-24m-31 64 11 12 20-24m-31 64 11 12 20-24" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M216 217h112m-112 52h91m-91 52h71" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="348" cy="346" r="64" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+  <path d="M348 309v74m-37-37h74" fill="none" stroke="#F9FCF7" stroke-width="18" stroke-linecap="round"/>
+  <path d="M151 376h142" fill="none" stroke="#D89752" stroke-width="9" stroke-linecap="round"/>
+</svg>

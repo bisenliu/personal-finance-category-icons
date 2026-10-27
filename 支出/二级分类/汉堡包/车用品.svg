@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/汉堡包/车用品"><title>支出/汉堡包/车用品</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <circle cx="225" cy="258" r="137" fill="#354754"/>
+      <circle cx="225" cy="258" r="104" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
+      <circle cx="225" cy="258" r="40" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
+      <path d="M225 155v60m0 85v60m-103-102h60m85 0h60" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+      <path d="M378 158c-19 0-29 16-24 33l-76 76 28 28 76-76c17 5 33-5 33-24l-21 9-25-25 9-21Z" fill="#D89752" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
+    </svg>

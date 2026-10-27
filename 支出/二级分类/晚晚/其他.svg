@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚/其他"><title>支出/晚晚/其他</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M104 212h304v169H104V212Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="M87 175h338v50H87Z" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
+      <path d="M256 175v206" fill="none" stroke="#354754" stroke-width="9"/>
+      <path d="M197 157c-45-8-68-31-51-58 18-26 61-8 73 42m37 16c45-8 68-31 51-58-18-26-61-8-73 42" fill="#D89752" stroke="#354754" stroke-width="9"/>
+      <path d="M301 266c3-19 18-32 37-32 20 0 35 13 35 32 0 15-10 22-24 31-10 7-12 12-12 20m0 23v2" fill="none" stroke="#354754" stroke-width="12" stroke-linecap="round"/>
+    </svg>

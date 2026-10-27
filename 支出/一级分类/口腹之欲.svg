@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/口腹之欲"><title>支出/口腹之欲</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <circle cx="256" cy="251" r="161" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <circle cx="256" cy="251" r="124" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
+      <path d="M153 162v73c0 18 12 30 29 30s29-12 29-30v-73m-29 2v201" fill="none" stroke="#354754" stroke-width="14" stroke-linecap="round"/>
+      <path d="M325 165c-30 25-39 65-39 103h49v99" fill="#D89752" stroke="#354754" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="256" cy="242" r="23" fill="#D89752" stroke="#354754" stroke-width="8"/>
+    </svg>

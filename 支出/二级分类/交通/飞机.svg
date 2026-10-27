@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/交通/飞机"><title>支出/交通/飞机</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M79 251 56 178h54l65 69" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M79 251q23-21 72-21h211q57 0 85 31-16 37-85 37H151q-50 0-72-22-11-11 0-25Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="m213 234 44-123h54l-19 123" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="m213 299 100 91h57l-68-91" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M83 268h92M221 257h145" fill="none" stroke="#F9FCF7" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="352" cy="262" r="8" fill="#F9FCF7" stroke="#354754" stroke-width="4"/>
+      <circle cx="320" cy="262" r="8" fill="#F9FCF7" stroke="#354754" stroke-width="4"/>
+      <path d="M395 249q20 3 33 14" fill="none" stroke="#354754" stroke-width="8" stroke-linecap="round"/>
+    </svg>

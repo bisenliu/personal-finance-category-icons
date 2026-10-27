@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/补贴/津贴/餐饮/交通补贴"><title>收入/补贴/津贴/餐饮/交通补贴</title><ellipse cx="256" cy="429" rx="177" ry="17" fill="#354754" opacity=".13"/>
+      <circle cx="354" cy="169" r="67" fill="#D89752" stroke="#354754" stroke-width="12"/>
+      <circle cx="354" cy="169" r="44" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <path d="M351 136v66m19-48c-12-12-36-8-36 6 0 18 39 8 39 27 0 15-26 18-39 5" fill="none" stroke="#354754" stroke-width="7" stroke-linecap="round"/>
+      <path d="M104 276h251c0 60-36 104-91 104h-70c-54 0-90-44-90-104Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="M95 276h270" fill="none" stroke="#354754" stroke-width="12" stroke-linecap="round"/>
+      <path d="M161 365v25h133v-25" fill="#FFF2D5" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
+      <path d="M180 134v89m-24-89v56c0 15 10 25 24 25s24-10 24-25v-56m65 93v-88c-21 18-29 47-29 73h29" fill="none" stroke="#354754" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M114 254c25-15 42-14 62 0 17 12 39 12 57 0 24-16 45-14 67 1" fill="none" stroke="#F9FCF7" stroke-width="9" stroke-linecap="round"/>
+    </svg>

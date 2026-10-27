@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/医疗/保健营养">
+  <title>支出/医疗/保健营养</title>
+  <ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+  <path d="M166 132h146v47H166Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M153 179h172c15 0 27 12 27 27v171c0 15-12 27-27 27H153c-15 0-27-12-27-27V206c0-15 12-27 27-27Z" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+  <path d="M153 236h172v119H153Z" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
+  <path d="M239 329c-45-26-40-68 11-78 9 30 5 55-11 78Z" fill="#D89752" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M239 329c8-34 27-51 53-59 7 31-8 56-53 59Z" fill="#B9E2E4" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M239 329v-48" fill="none" stroke="#354754" stroke-width="7" stroke-linecap="round"/>
+  <path d="M344 331c21-23 55-23 76-2 20 21 20 52-1 73-21 21-54 21-75 0-20-21-20-51 0-71Z" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
+  <path d="m352 394 60-60" fill="none" stroke="#354754" stroke-width="8"/>
+  <path d="m383 364 29-30" fill="none" stroke="#D89752" stroke-width="16" stroke-linecap="round"/>
+</svg>

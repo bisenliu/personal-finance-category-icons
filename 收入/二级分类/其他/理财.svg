@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/其他/理财"><title>收入/其他/理财</title><ellipse cx="256" cy="429" rx="177" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M119 282c-24-1-41-17-41-40 0-14 8-24 20-24 8 0 15 6 15 15 0 11-9 16-18 12" fill="none" stroke="#354754" stroke-width="11" stroke-linecap="round"/>
+      <path d="M160 203c31-24 69-37 112-37 73 0 124 43 131 105h29v66h-45c-11 24-32 43-57 56v31h-48v-20c-15 3-31 3-46 1v19h-48v-32c-49-24-77-62-77-111 0-29 10-55 28-78l-13-40 52 9Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="M223 194c30-13 65-15 97-6" fill="none" stroke="#F9FCF7" stroke-width="10" stroke-linecap="round"/>
+      <path d="M247 220h65" fill="none" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="357" cy="261" r="7" fill="#354754"/>
+      <circle cx="274" cy="128" r="55" fill="#D89752" stroke="#354754" stroke-width="11"/>
+      <circle cx="274" cy="128" r="36" fill="#FFF2D5" stroke="#354754" stroke-width="7"/>
+      <path d="M274 106v44m14-33c-9-9-28-5-28 6 0 15 29 7 29 19 0 12-20 14-29 6" fill="none" stroke="#354754" stroke-width="6" stroke-linecap="round"/>
+    </svg>

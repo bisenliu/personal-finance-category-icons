@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/生活与缴费服务/家政清洁">
+  <title>支出/生活与缴费服务/家政清洁</title>
+  <ellipse cx="256" cy="430" rx="177" ry="17" fill="#354754" opacity=".13"/>
+  <path d="M122 220 256 106l134 114v178H122Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="m95 225 161-136 161 136" fill="none" stroke="#354754" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M149 252h100v132c0 9-7 16-16 16h-68c-9 0-16-7-16-16Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M165 249c0-19 15-34 34-34s34 15 34 34" fill="none" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
+  <path d="M164 307h70" fill="none" stroke="#F9FCF7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M314 157v173" fill="none" stroke="#354754" stroke-width="24" stroke-linecap="round"/>
+  <path d="M314 157v173" fill="none" stroke="#D89752" stroke-width="13" stroke-linecap="round"/>
+  <path d="M283 329h62l19 71h-100Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M294 347v41m20-41v41m20-41v41" fill="none" stroke="#FFF2D5" stroke-width="8" stroke-linecap="round"/>
+  <path d="m406 284 7-19 7 19 19 7-19 7-7 19-7-19-19-7Z" fill="#B9E2E4" stroke="#354754" stroke-width="7" stroke-linejoin="round"/>
+</svg>

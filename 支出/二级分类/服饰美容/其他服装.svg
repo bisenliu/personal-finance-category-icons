@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/服饰美容/其他服装"><title>支出/服饰美容/其他服装</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M126 274h261v87c0 15-12 27-27 27H153c-15 0-27-12-27-27v-87Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M126 313h261" stroke="#354754" stroke-width="8"/>
+      <path d="M161 200h209v74H161Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M161 238h209" stroke="#354754" stroke-width="8"/>
+      <path d="M193 142h161v58H193Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M193 171h161" stroke="#354754" stroke-width="8"/>
+      <path d="M247 142c4-14 14-20 27-20s23 6 27 20" fill="none" stroke="#354754" stroke-width="8" stroke-linecap="round"/>
+      <path d="M147 345h90m109 0h21" stroke="#F9FCF7" stroke-width="8" stroke-linecap="round"/>
+    </svg>

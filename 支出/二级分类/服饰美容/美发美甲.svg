@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/服饰美容/美发美甲"><title>支出/服饰美容/美发美甲</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M113 198h131v171c0 15-12 27-27 27h-77c-15 0-27-12-27-27V198Z" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+      <path d="M138 145h81v53h-81Z" fill="#D89752" stroke="#354754" stroke-width="10"/>
+      <path d="M151 108h55v37h-55Z" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
+      <path d="M178 228c-33 36-18 78 0 85 18-7 33-49 0-85Z" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <path d="m273 158 112-29 20 213-106 30-26-214Z" fill="#FFF2D5" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
+      <path d="m283 188 108-25m-104 56 108-25m-102 56 106-25m-100 56 102-25" stroke="#354754" stroke-width="7"/>
+    </svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/日用家居/厨房用品"><title>支出/日用家居/厨房用品</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <rect x="124" y="138" width="269" height="248" rx="27" fill="#FFF2D5" stroke="#354754" stroke-width="12"/>
+      <path d="M171 177h117" stroke="#D89752" stroke-width="10" stroke-linecap="round"/>
+      <path d="M194 89v225m-28-225v99c0 19 12 31 28 31s28-12 28-31V89" fill="none" stroke="#354754" stroke-width="13" stroke-linecap="round"/>
+      <path d="M320 90c-45 17-59 62-59 108h63v116" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M163 348h188" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+    </svg>

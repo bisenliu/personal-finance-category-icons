@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/其他/手续费">
+  <title>支出/其他/手续费</title>
+  <ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+  <path d="M119 112h263v279l-27-17-28 17-28-17-28 17-28-17-28 17-28-17-28 17-40-23V112Z" fill="#FFF2D5" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M150 156h201m-201 41h147m-147 41h104" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+  <path d="M149 289h81m-81 41h67" fill="none" stroke="#B9E2E4" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="324" cy="301" r="77" fill="#D89752" stroke="#354754" stroke-width="12"/>
+  <circle cx="324" cy="301" r="56" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+  <circle cx="299" cy="278" r="10" fill="#354754"/>
+  <circle cx="349" cy="324" r="10" fill="#354754"/>
+  <path d="m294 330 60-58" fill="none" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/礼金/婚丧礼金"><title>收入/礼金/婚丧礼金</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(84 135) scale(1.15)">
+  <rect x="15" y="60" width="270" height="180" rx="17" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
+  <path d="m18 78 132 96L282 78" fill="none" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
+</g>
+      <path d="M346 129c-18 10-36 26-42 49m42-49c20 8 35 24 39 43m-39-43c-3-31 9-52 30-63" fill="none" stroke="#354754" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="347" cy="122" r="31" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
+      <circle cx="347" cy="122" r="11" fill="#D89752"/>
+    </svg>

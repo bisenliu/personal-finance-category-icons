@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/其他"><title>支出/其他</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M97 152h318v239H97V152Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M126 118h100l25 34H126Z" fill="#B9E2E4" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
+      <rect x="131" y="228" width="80" height="88" rx="12" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
+      <circle cx="291" cy="270" r="42" fill="#D89752" stroke="#354754" stroke-width="8"/>
+      <path d="m349 231 30 76h-60Z" fill="#B9E2E4" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+    </svg>

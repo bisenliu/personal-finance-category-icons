@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/交通"><title>支出/交通</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="M74 143 179 105l105 38 143-38v266l-143 38-105-38-105 38Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="m179 105 0 266m105-228v266" fill="none" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
+      <path d="M114 319c30-39 39-87 83-94 47-7 61 63 107 52 32-7 52-44 81-90" fill="none" stroke="#354754" stroke-width="18" stroke-linecap="round" stroke-dasharray="2 26"/>
+      <path d="M125 179c0 24-35 59-35 59s-35-35-35-59a35 35 0 0 1 70 0Z" fill="#B9E2E4" stroke="#354754" stroke-width="10"/>
+      <circle cx="90" cy="179" r="11" fill="#F9FCF7"/>
+      <path d="M431 240c0 24-35 59-35 59s-35-35-35-59a35 35 0 0 1 70 0Z" fill="#D89752" stroke="#354754" stroke-width="10"/>
+      <circle cx="396" cy="240" r="11" fill="#FFF2D5"/>
+    </svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/工资/工资"><title>收入/工资/工资</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <rect x="124" y="113" width="298" height="228" rx="20" fill="#D89752" stroke="#354754" stroke-width="11"/>
+      <rect x="84" y="161" width="344" height="225" rx="22" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <path d="M112 211c28 0 40-11 40-27h203c0 18 17 28 45 28v125c-29 0-44 9-44 26H151c0-17-14-26-39-26V211Z" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
+      <circle cx="256" cy="274" r="49" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
+      <path d="M256 243v62m22-49c-12-16-45-14-45 2 0 21 46 11 46 32 0 18-33 21-46 4" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+    </svg>

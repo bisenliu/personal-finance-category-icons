@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/住房/物业费"><title>支出/住房/物业费</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+      <path d="m130 170 126-80 126 80v206H130V170Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="m116 176 140-92 140 92" fill="none" stroke="#354754" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="171" y="190" width="52" height="49" rx="5" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <rect x="289" y="190" width="52" height="49" rx="5" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <rect x="171" y="265" width="52" height="49" rx="5" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
+      <path d="M234 376v-71c0-12 10-22 22-22s22 10 22 22v71" fill="#F9FCF7" stroke="#354754" stroke-width="9"/>
+      <path d="M317 272h99v118H317Z" fill="#FFF2D5" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
+      <path d="M338 299h55m-55 24h39m-39 24h43" fill="none" stroke="#354754" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="397" cy="355" r="28" fill="#D89752" stroke="#354754" stroke-width="8"/>
+      <path d="M397 341v28m9-20c-7-6-19-4-19 3 0 8 20 4 20 12 0 8-14 9-20 4" fill="none" stroke="#FFF2D5" stroke-width="5" stroke-linecap="round"/>
+    </svg>

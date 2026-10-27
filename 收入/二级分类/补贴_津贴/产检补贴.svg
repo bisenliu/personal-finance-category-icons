@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/补贴/津贴/产检补贴"><title>收入/补贴/津贴/产检补贴</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(83 74) scale(1.14)">
+  <path d="M25 15h142l43 44v206H25V15Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M167 15v44h43M55 102h124M55 140h102M55 178h90" fill="none" stroke="#354754" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+      <path d="M165 299c-11-22-45-13-42 12 3 18 22 34 42 51 20-17 39-33 42-51 3-25-31-34-42-12Z" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
+    <circle cx="366" cy="329" r="64" fill="#D89752" stroke="#354754" stroke-width="10"/><circle cx="366" cy="329" r="47" fill="#FFF2D5" stroke="#354754" stroke-width="6"/><path d="M366 290v78m16 -49c-9-12-32-9-32 4 0 17 34 8 34 24 0 14-24 17-34 6" fill="none" stroke="#354754" stroke-width="6" stroke-linecap="round"/></svg>

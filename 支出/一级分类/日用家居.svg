@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="日用家居图标：沙发与落地灯">
+  <ellipse cx="255" cy="429" rx="190" ry="18" fill="#344653" opacity="0.09"/>
+
+  <path d="M381 100h43l31 96H350l31-96Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M402 199v193M369 394h69" fill="none" stroke="#354754" stroke-width="11" stroke-linecap="round"/>
+  <path d="M388 120h29" fill="none" stroke="#EFC78F" stroke-width="8" stroke-linecap="round"/>
+
+  <path d="M90 237c0-30 24-54 54-54h176c30 0 54 24 54 54v96H90v-96Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M114 244c0-19 15-34 34-34h77v102H114v-68ZM231 210h86c19 0 34 15 34 34v68H231V210Z" fill="#F9FCF7" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M96 308h272v66c0 14-11 25-25 25H121c-14 0-25-11-25-25v-66Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M82 281c-18 0-33 15-33 33v62c0 13 10 23 23 23h40v-86c0-18-13-32-30-32ZM382 281c18 0 33 15 33 33v62c0 13-10 23-23 23h-40v-86c0-18 13-32 30-32Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M112 400v19M352 400v19" fill="none" stroke="#354754" stroke-width="11" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="乳品烘焙图标：牛奶纸盒和面包">
+  <ellipse cx="261" cy="412" rx="181" ry="18" fill="#344653" opacity="0.09"/>
+
+  <path d="M258 229c0-36 24-61 58-65 23-3 41 7 51 17 18-6 38-2 51 11 14 13 20 31 20 51v119c0 20-16 36-36 36H284c-20 0-36-16-36-36V248c0-7 3-14 10-19Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M273 239c3-26 20-45 45-48 22-3 38 9 48 21 14-8 30-4 39 5 9 9 12 20 12 34v105c0 11-9 20-20 20H293c-11 0-20-9-20-20V239Z" fill="#FFF2D5" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M310 223c12-8 28-6 38 3M365 237c8-4 19-2 25 5" fill="none" stroke="#E8C795" stroke-width="7" stroke-linecap="round"/>
+  <path d="M300 298c8-5 17-5 24 0M361 294c7-5 16-5 22 0M329 338c11-6 24-5 33 0" fill="none" stroke="#E8C795" stroke-width="7" stroke-linecap="round"/>
+
+  <path d="M92 176 128 104h88l41 72v211c0 13-10 23-23 23H115c-13 0-23-10-23-23V176Z" fill="#FAFDFC" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M92 176h165M128 104l44 72 44-72M172 176v53" fill="none" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M105 268h139v119c0 5-4 9-9 9H114c-5 0-9-4-9-9V268Z" fill="#B9E2E4"/>
+  <path d="M105 269c23-15 47 12 69 0 21-12 43 9 70-2" fill="none" stroke="#354754" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 297c-9 17-20 28-20 42 0 12 9 21 21 21 13 0 22-9 22-21 0-14-14-30-23-42Z" fill="#F9FCF7" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M115 193v48M232 193v48" stroke="#D5E9E7" stroke-width="8" stroke-linecap="round"/>
+</svg>
