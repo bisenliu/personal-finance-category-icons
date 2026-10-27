@@ -2,7 +2,7 @@
   <path d="M25 15h142l43 44v206H25V15Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
   <path d="M167 15v44h43M55 102h124M55 140h102M55 178h90" fill="none" stroke="#354754" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 </g><g transform="translate(140 208) scale(0.64)">
-  <path d="M31 139c6-34 27-54 61-54h117c33 0 54 20 60 54l19 34v54H12v-54l19-34Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M31 139c6-34 27-54 61-54h117c33 0 54 20 60 54l19 34v54H12v-54l19-34Z" fill="#F3DDAE" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
   <path d="m55 137 18-36h154l18 36H55Z" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
   <circle cx="66" cy="222" r="25" fill="#354754"/><circle cx="66" cy="222" r="10" fill="#F9FCF7"/>
   <circle cx="234" cy="222" r="25" fill="#354754"/><circle cx="234" cy="222" r="10" fill="#F9FCF7"/>

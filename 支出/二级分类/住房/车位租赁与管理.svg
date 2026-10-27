@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/住房/车位租赁与管理"><title>支出/住房/车位租赁与管理</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <rect x="90" y="122" width="113" height="136" rx="14" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+      <rect x="90" y="122" width="113" height="136" rx="14" fill="#DDD9ED" stroke="#354754" stroke-width="11"/>
       <path d="M132 222v-67h22c35 0 35 44 0 44h-22" fill="none" stroke="#354754" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
       <path d="M147 258v123" stroke="#354754" stroke-width="12" stroke-linecap="round"/>
       <path d="M102 382h91" stroke="#354754" stroke-width="12" stroke-linecap="round"/>
       <circle cx="358" cy="167" r="49" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
       <path d="M358 139v30l20 14" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M237 277c4-19 16-32 36-32h102c20 0 32 13 36 32l17 37v45H218v-45l19-37Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+      <path d="M237 277c4-19 16-32 36-32h102c20 0 32 13 36 32l17 37v45H218v-45l19-37Z" fill="#DDD9ED" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
       <path d="M251 279h146l-13-22c-3-5-8-8-15-8h-90c-7 0-12 3-15 8l-13 22Z" fill="#F9FCF7" stroke="#354754" stroke-width="7"/>
       <circle cx="261" cy="357" r="24" fill="#354754"/>
       <circle cx="261" cy="357" r="10" fill="#F9FCF7"/>

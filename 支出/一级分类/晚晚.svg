@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚">
   <title>支出/晚晚</title>
   <ellipse cx="256" cy="430" rx="177" ry="17" fill="#354754" opacity=".13"/>
-  <path d="M179 328c-22 9-38 34-48 75h250c-10-41-26-66-48-75Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M179 328c-22 9-38 34-48 75h250c-10-41-26-66-48-75Z" fill="#F2D3DC" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
   <path d="m221 345 35 34 35-34" fill="#F9FCF7" stroke="#354754" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M140 170c-40 0-60 31-59 66-26 6-36 28-28 47 10 25 47 29 71 14l50-50Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
   <path d="M372 170c40 0 60 31 59 66 26 6 36 28 28 47-10 25-47 29-71 14l-50-50Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
-  <circle cx="111" cy="170" r="17" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
-  <circle cx="401" cy="170" r="17" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
+  <circle cx="111" cy="170" r="17" fill="#F2D3DC" stroke="#354754" stroke-width="8"/>
+  <circle cx="401" cy="170" r="17" fill="#F2D3DC" stroke="#354754" stroke-width="8"/>
   <path d="M125 194c0-81 55-127 131-127s131 46 131 127v66H125Z" fill="#D89752" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
   <circle cx="256" cy="232" r="125" fill="#FFF2D5" stroke="#354754" stroke-width="12"/>
   <path d="M131 193c9-75 56-116 125-116 66 0 113 43 125 116-29-1-52-22-65-49-34 28-89 32-120 22-17 17-40 28-65 27Z" fill="#D89752" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>

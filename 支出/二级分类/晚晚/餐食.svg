@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚/餐食"><title>支出/晚晚/餐食</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M107 254h262c0 84-49 135-131 135s-131-51-131-135Z" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <path d="M107 254h262c0 84-49 135-131 135s-131-51-131-135Z" fill="#F3D2C2" stroke="#354754" stroke-width="12"/>
       <path d="M104 254h268" stroke="#354754" stroke-width="12" stroke-linecap="round"/>
       <path d="M144 287c28 13 59 17 91 17" stroke="#F9FCF7" stroke-width="9" stroke-linecap="round"/>
       <path d="M330 112v110c0 27-17 43-39 43-23 0-41-18-41-42 0-25 18-42 41-42h39" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>

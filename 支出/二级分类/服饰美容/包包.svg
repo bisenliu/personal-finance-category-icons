@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/服饰美容/包包"><title>支出/服饰美容/包包</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M123 192h265c20 0 36 16 36 36v136c0 19-16 35-36 35H123c-20 0-35-16-35-35V228c0-20 15-36 35-36Z" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <path d="M123 192h265c20 0 36 16 36 36v136c0 19-16 35-36 35H123c-20 0-35-16-35-35V228c0-20 15-36 35-36Z" fill="#F2D3DC" stroke="#354754" stroke-width="12"/>
       <path d="M173 195v-45c0-48 33-78 83-78s83 30 83 78v45" fill="none" stroke="#354754" stroke-width="13" stroke-linecap="round"/>
       <path d="M119 247h274v108H119Z" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
       <path d="M229 247v80h54v-80" fill="none" stroke="#354754" stroke-width="9"/>

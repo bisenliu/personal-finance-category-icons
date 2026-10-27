@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚/医保/保险"><title>支出/晚晚/医保/保险</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <rect x="90" y="125" width="337" height="259" rx="28" fill="#FFF2D5" stroke="#354754" stroke-width="12"/>
-      <path d="M90 180h337" stroke="#B9E2E4" stroke-width="45"/>
+      <path d="M90 180h337" stroke="#CDE3CD" stroke-width="45"/>
       <path d="M123 313h117" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
-      <path d="M338 219c26 17 51 23 77 26v54c0 38-24 67-77 95-53-28-77-57-77-95v-54c26-3 51-9 77-26Z" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
+      <path d="M338 219c26 17 51 23 77 26v54c0 38-24 67-77 95-53-28-77-57-77-95v-54c26-3 51-9 77-26Z" fill="#CDE3CD" stroke="#354754" stroke-width="9"/>
     <g transform="translate(153 197) scale(0.43)">
   <path d="M38 143c-23-29-9-74 29-77m161 77c23-29 9-74-29-77" fill="none" stroke="#D89752" stroke-width="29" stroke-linecap="round"/>
   <circle cx="133" cy="139" r="98" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
   <path d="M39 120c5-65 40-105 94-105s89 40 94 105c-20-8-34-24-42-43-33 19-75 21-106 9-10 18-22 28-40 34Z" fill="#D89752" stroke="#354754" stroke-width="8"/>
   <circle cx="95" cy="142" r="6" fill="#354754"/><circle cx="170" cy="142" r="6" fill="#354754"/>
   <path d="M116 178c10 9 24 9 34 0" fill="none" stroke="#354754" stroke-width="7" stroke-linecap="round"/>
-  <path d="M70 233h127" stroke="#B9E2E4" stroke-width="30" stroke-linecap="round"/>
+  <path d="M70 233h127" stroke="#CDE3CD" stroke-width="30" stroke-linecap="round"/>
 </g></svg>

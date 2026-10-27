@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/服饰美容/内衣睡衣"><title>支出/服饰美容/内衣睡衣</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <path d="m197 143-74 35-39 109 61 26 38-72-10 145h166l-10-145 38 72 61-26-39-109-74-35-59 65-59-65Z" fill="#FFF2D5" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
-      <path d="m197 143 59 65 59-65-30-28-29 27-29-27Z" fill="#B9E2E4" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
+      <path d="m197 143 59 65 59-65-30-28-29 27-29-27Z" fill="#F3D2C2" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
       <path d="M256 208v178" stroke="#354754" stroke-width="8"/>
       <circle cx="277" cy="245" r="5" fill="#D89752"/>
       <circle cx="277" cy="288" r="5" fill="#D89752"/>

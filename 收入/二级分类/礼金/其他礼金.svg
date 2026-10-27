@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/礼金/其他礼金"><title>收入/礼金/其他礼金</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(76 126) scale(1.14)">
-  <rect x="15" y="60" width="270" height="180" rx="17" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
+  <rect x="15" y="60" width="270" height="180" rx="17" fill="#F3D2C2" stroke="#354754" stroke-width="11"/>
   <path d="m18 78 132 96L282 78" fill="none" stroke="#354754" stroke-width="10" stroke-linejoin="round"/>
 </g><circle cx="376" cy="328" r="52" fill="#D89752" stroke="#354754" stroke-width="10"/><circle cx="376" cy="328" r="35" fill="#FFF2D5" stroke="#354754" stroke-width="6"/><path d="M376 301v54m16 -49c-9-12-32-9-32 4 0 17 34 8 34 24 0 14-24 17-34 6" fill="none" stroke="#354754" stroke-width="6" stroke-linecap="round"/></svg>

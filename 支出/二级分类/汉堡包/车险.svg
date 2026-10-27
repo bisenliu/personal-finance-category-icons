@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/汉堡包/车险"><title>支出/汉堡包/车险</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M225 87c47 29 92 38 140 43v103c0 76-45 132-140 185-95-53-140-109-140-185V130c48-5 93-14 140-43Z" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <path d="M225 87c47 29 92 38 140 43v103c0 76-45 132-140 185-95-53-140-109-140-185V130c48-5 93-14 140-43Z" fill="#CDE3CD" stroke="#354754" stroke-width="12"/>
       <path d="m158 232 42 42 83-90" fill="none" stroke="#FFF2D5" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
     <g transform="translate(250 278) scale(0.58)">
-  <path d="M31 139c6-34 27-54 61-54h117c33 0 54 20 60 54l19 34v54H12v-54l19-34Z" fill="#B9E2E4" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M31 139c6-34 27-54 61-54h117c33 0 54 20 60 54l19 34v54H12v-54l19-34Z" fill="#CDE3CD" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
   <path d="m55 137 18-36h154l18 36H55Z" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
   <circle cx="66" cy="222" r="25" fill="#354754"/><circle cx="66" cy="222" r="10" fill="#F9FCF7"/>
   <circle cx="234" cy="222" r="25" fill="#354754"/><circle cx="234" cy="222" r="10" fill="#F9FCF7"/>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/住房/房贷"><title>支出/住房/房贷</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(75 86) scale(1.05)">
   <path d="m23 136 127-105 127 105v139H23V136Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
   <path d="m9 140 141-118 141 118" fill="none" stroke="#354754" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M115 275v-92h69v92" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
-  <path d="M46 170h45v46H46Z" fill="#B9E2E4" stroke="#354754" stroke-width="7"/>
+  <path d="M115 275v-92h69v92" fill="#CDE3CD" stroke="#354754" stroke-width="9"/>
+  <path d="M46 170h45v46H46Z" fill="#CDE3CD" stroke="#354754" stroke-width="7"/>
 </g>
       <path d="M273 216h151v189H273Z" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
       <path d="M294 253h108m-108 36h77m-77 36h53" stroke="#354754" stroke-width="8" stroke-linecap="round"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/其他/工作会员"><title>支出/其他/工作会员</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <rect x="101" y="150" width="310" height="229" rx="23" fill="#FFF2D5" stroke="#354754" stroke-width="12"/>
-      <path d="M101 205h310" stroke="#B9E2E4" stroke-width="37"/>
-      <path d="M147 278h126v68H147Z" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
+      <path d="M101 205h310" stroke="#DDD9ED" stroke-width="37"/>
+      <path d="M147 278h126v68H147Z" fill="#DDD9ED" stroke="#354754" stroke-width="9"/>
       <path d="M176 278v-20h66v20m-95 33h126" fill="none" stroke="#354754" stroke-width="8"/>
       <circle cx="349" cy="296" r="36" fill="#D89752" stroke="#354754" stroke-width="8"/>
       <path d="m332 296 11 12 21-25" fill="none" stroke="#FFF2D5" stroke-width="8" stroke-linecap="round"/>

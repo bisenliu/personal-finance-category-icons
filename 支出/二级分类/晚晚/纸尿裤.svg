@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚/纸尿裤"><title>支出/晚晚/纸尿裤</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <path d="M127 132h258v160c0 67-49 113-129 113s-129-46-129-113V132Z" fill="#F9FCF7" stroke="#354754" stroke-width="12"/>
       <path d="M127 198h258M256 197v166" fill="none" stroke="#354754" stroke-width="9"/>
-      <path d="M127 217h79v48c0 21-12 35-34 35h-45v-83Zm258 0h-79v48c0 21 12 35 34 35h45v-83Z" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
+      <path d="M127 217h79v48c0 21-12 35-34 35h-45v-83Zm258 0h-79v48c0 21 12 35 34 35h45v-83Z" fill="#DCE3DF" stroke="#354754" stroke-width="9"/>
       <path d="M208 318c-27 40-58 55-88 50m184-50c27 40 58 55 88 50" fill="none" stroke="#D89752" stroke-width="12" stroke-linecap="round"/>
       <circle cx="256" cy="265" r="24" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
     </svg>

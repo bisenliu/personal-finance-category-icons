@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/礼金/乔迁/新房"><title>收入/礼金/乔迁/新房</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(67 81) scale(1.05)">
   <path d="m23 136 127-105 127 105v139H23V136Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
   <path d="m9 140 141-118 141 118" fill="none" stroke="#354754" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M115 275v-92h69v92" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
-  <path d="M46 170h45v46H46Z" fill="#B9E2E4" stroke="#354754" stroke-width="7"/>
+  <path d="M115 275v-92h69v92" fill="#CDE3CD" stroke="#354754" stroke-width="9"/>
+  <path d="M46 170h45v46H46Z" fill="#CDE3CD" stroke="#354754" stroke-width="7"/>
 </g><g transform="translate(260 240) scale(0.63)">
-  <path d="M34 114h232v148H34Z" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+  <path d="M34 114h232v148H34Z" fill="#CDE3CD" stroke="#354754" stroke-width="11"/>
   <path d="M20 87h260v51H20Z" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
   <path d="M150 87v175" stroke="#D89752" stroke-width="16"/>
-  <path d="M150 85c-44 4-76-19-59-46 19-29 59 2 59 46Zm0 0c44 4 76-19 59-46-19-29-59 2-59 46Z" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
+  <path d="M150 85c-44 4-76-19-59-46 19-29 59 2 59 46Zm0 0c44 4 76-19 59-46-19-29-59 2-59 46Z" fill="#CDE3CD" stroke="#354754" stroke-width="9"/>
 </g></svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/住房/房租"><title>支出/住房/房租</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <path d="m109 219 147-122 147 122v170H109V219Z" fill="#FFF2D5" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
       <path d="m94 223 162-137 162 137" fill="none" stroke="#354754" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M140 248h69v70h-69Z" fill="#B9E2E4" stroke="#354754" stroke-width="8"/>
+      <path d="M140 248h69v70h-69Z" fill="#CDE3CD" stroke="#354754" stroke-width="8"/>
       <path d="M174 248v70m-34-35h69" stroke="#354754" stroke-width="6"/>
-      <path d="M232 389V274h71v115" fill="#B9E2E4" stroke="#354754" stroke-width="10"/>
+      <path d="M232 389V274h71v115" fill="#CDE3CD" stroke="#354754" stroke-width="10"/>
       <circle cx="288" cy="334" r="5" fill="#354754"/>
       <circle cx="370" cy="321" r="45" fill="#D89752" stroke="#354754" stroke-width="10"/>
       <circle cx="370" cy="321" r="17" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>

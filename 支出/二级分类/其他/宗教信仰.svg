@@ -2,5 +2,5 @@
       <path d="M138 320h237l-18 64H156l-18-64Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
       <path d="M181 282h151l24 38H157l24-38Z" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
       <path d="M239 283V155m36 128V180" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
-      <path d="M239 140c-21-18-23-35-6-51m42 75c-21-18-23-35-6-51m67 125c-21-18-23-35-6-51" fill="none" stroke="#B9E2E4" stroke-width="13" stroke-linecap="round"/>
+      <path d="M239 140c-21-18-23-35-6-51m42 75c-21-18-23-35-6-51m67 125c-21-18-23-35-6-51" fill="none" stroke="#F3DDAE" stroke-width="13" stroke-linecap="round"/>
     </svg>

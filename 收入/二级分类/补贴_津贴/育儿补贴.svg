@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-label="收入/补贴/津贴/育儿补贴" role="img" viewBox="0 0 512 512">
   <title>收入/补贴/津贴/育儿补贴</title>
   <ellipse cx="256" cy="430" fill="#354754" opacity=".13" rx="177" ry="17" />
-  <path d="M179 328c-22 9-38 34-48 75h250c-10-41-26-66-48-75Z" fill="#B9E2E4" stroke="#354754" stroke-linejoin="round" stroke-width="12" />
+  <path d="M179 328c-22 9-38 34-48 75h250c-10-41-26-66-48-75Z" fill="#F2D3DC" stroke="#354754" stroke-linejoin="round" stroke-width="12" />
   <path d="m221 345 35 34 35-34" fill="#F9FCF7" stroke="#354754" stroke-linecap="round" stroke-linejoin="round" stroke-width="9" />
   <path d="M140 170c-40 0-60 31-59 66-26 6-36 28-28 47 10 25 47 29 71 14l50-50Z" fill="#D89752" stroke="#354754" stroke-linejoin="round" stroke-width="11" />
   <path d="M372 170c40 0 60 31 59 66 26 6 36 28 28 47-10 25-47 29-71 14l-50-50Z" fill="#D89752" stroke="#354754" stroke-linejoin="round" stroke-width="11" />
-  <circle cx="111" cy="170" fill="#B9E2E4" r="17" stroke="#354754" stroke-width="8" />
-  <circle cx="401" cy="170" fill="#B9E2E4" r="17" stroke="#354754" stroke-width="8" />
+  <circle cx="111" cy="170" fill="#F2D3DC" r="17" stroke="#354754" stroke-width="8" />
+  <circle cx="401" cy="170" fill="#F2D3DC" r="17" stroke="#354754" stroke-width="8" />
   <path d="M125 194c0-81 55-127 131-127s131 46 131 127v66H125Z" fill="#D89752" stroke="#354754" stroke-linejoin="round" stroke-width="12" />
   <circle cx="256" cy="232" fill="#FFF2D5" r="125" stroke="#354754" stroke-width="12" />
   <path d="M131 193c9-75 56-116 125-116 66 0 113 43 125 116-29-1-52-22-65-49-34 28-89 32-120 22-17 17-40 28-65 27Z" fill="#D89752" stroke="#354754" stroke-linejoin="round" stroke-width="10" />
@@ -17,7 +17,7 @@
   <circle cx="173" cy="271" fill="#EFC78F" opacity=".75" r="13" />
   <circle cx="339" cy="271" fill="#EFC78F" opacity=".75" r="13" />
 <g>
-        <path d="M82 315h69v77c0 8-6 14-14 14H96c-8 0-14-6-14-14v-77Z" fill="#B9E2E4" stroke="#354754" stroke-width="9" />
+        <path d="M82 315h69v77c0 8-6 14-14 14H96c-8 0-14-6-14-14v-77Z" fill="#F2D3DC" stroke="#354754" stroke-width="9" />
         <path d="M91 288h51v27H91Z" fill="#D89752" stroke="#354754" stroke-width="8" />
         <path d="M105 275h23v13h-23Z" fill="#FFF2D5" stroke="#354754" stroke-width="6" />
         <path d="M94 337h45v42H94Z" fill="#FFF2D5" stroke="#354754" stroke-width="5" />

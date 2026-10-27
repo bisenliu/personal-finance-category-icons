@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/服饰美容/彩妆"><title>支出/服饰美容/彩妆</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M125 200h102v185H125Z" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+      <path d="M125 200h102v185H125Z" fill="#F2D3DC" stroke="#354754" stroke-width="11"/>
       <path d="M136 151h80v49h-80Z" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
       <path d="M150 147v-43c0-20 14-33 29-33s27 14 27 33v43Z" fill="#D89752" stroke="#354754" stroke-width="9"/>
       <path d="M312 91h35l17 211h-69l17-211Z" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
-      <path d="M295 303h70v79h-70Z" fill="#B9E2E4" stroke="#354754" stroke-width="10"/>
+      <path d="M295 303h70v79h-70Z" fill="#F2D3DC" stroke="#354754" stroke-width="10"/>
       <path d="M307 169h47" stroke="#D89752" stroke-width="12" stroke-linecap="round"/>
     </svg>

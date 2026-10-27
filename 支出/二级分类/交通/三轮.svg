@@ -5,9 +5,9 @@
       <circle cx="396" cy="339" r="24" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
       <path d="M155 154q0-28 28-28h146q28 0 28 28v28H155Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
       <path d="M139 192q0-23 24-23h186q24 0 24 23v101H139V192Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
-      <path d="M157 203h198v91H157Z" fill="#B9E2E4" stroke="#354754" stroke-width="9"/>
+      <path d="M157 203h198v91H157Z" fill="#F3DDAE" stroke="#354754" stroke-width="9"/>
       <path d="M256 204v90M145 294h222l38 49H107l38-49Z" fill="#D89752" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
-      <path d="M111 340h290v25q0 18-18 18H129q-18 0-18-18v-25Z" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+      <path d="M111 340h290v25q0 18-18 18H129q-18 0-18-18v-25Z" fill="#F3DDAE" stroke="#354754" stroke-width="11"/>
       <circle cx="256" cy="381" r="35" fill="#354754"/>
       <circle cx="256" cy="381" r="16" fill="#F9FCF7"/>
       <circle cx="158" cy="347" r="11" fill="#FFF2D5" stroke="#354754" stroke-width="6"/>

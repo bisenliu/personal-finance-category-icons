@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/交通/火车/高铁"><title>支出/交通/火车/高铁</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M78 157h276c55 0 88 41 88 91v76H82c-18 0-30-14-30-31V188c0-18 10-31 26-31Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="M78 157h276c55 0 88 41 88 91v76H82c-18 0-30-14-30-31V188c0-18 10-31 26-31Z" fill="#DCE3DF" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
       <path d="M94 186h221c48 0 73 20 91 56H84l10-56Z" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
       <path d="M128 186v56m56-56v56m57-56v56m58-56v56" stroke="#354754" stroke-width="6"/>
       <path d="M81 325h357M99 352h312" stroke="#354754" stroke-width="10" stroke-linecap="round"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="安全防护图标：带勾选标记的防护盾牌">
   <ellipse cx="256" cy="431" rx="164" ry="18" fill="#344653" opacity="0.09"/>
 
-  <path d="M256 68c49 31 98 46 145 49v112c0 96-51 163-145 208-94-45-145-112-145-208V117c47-3 96-18 145-49Z" fill="#B9E2E4" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M256 68c49 31 98 46 145 49v112c0 96-51 163-145 208-94-45-145-112-145-208V117c47-3 96-18 145-49Z" fill="#CDE3CD" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
   <path d="M256 102c39 22 78 35 111 40v87c0 75-36 127-111 171-75-44-111-96-111-171v-87c33-5 72-18 111-40Z" fill="#F8FCF9" stroke="#354754" stroke-width="9" stroke-linejoin="round"/>
 
   <circle cx="256" cy="244" r="74" fill="#D89752" stroke="#354754" stroke-width="10"/>

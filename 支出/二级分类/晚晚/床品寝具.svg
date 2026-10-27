@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚/床品寝具"><title>支出/晚晚/床品寝具</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <path d="M108 191h296v182H108V191Z" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
-      <path d="M125 176h262v129H125Z" fill="#B9E2E4" stroke="#354754" stroke-width="10"/>
+      <path d="M125 176h262v129H125Z" fill="#DDD9ED" stroke="#354754" stroke-width="10"/>
       <path d="M146 197v106m44-106v106m44-106v106m44-106v106m44-106v106m44-106v106" stroke="#354754" stroke-width="8"/>
       <path d="M110 164v231m292-231v231" stroke="#354754" stroke-width="13" stroke-linecap="round"/>
       <path d="M158 338h195v34H158Z" fill="#D89752" stroke="#354754" stroke-width="9"/>

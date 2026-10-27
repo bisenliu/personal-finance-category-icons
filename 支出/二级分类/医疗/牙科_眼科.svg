@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/医疗/牙科/眼科"><title>支出/医疗/牙科/眼科</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
       <path d="M161 131c-47 0-69 34-58 86 8 38 37 88 50 139 8 32 35 32 44 0l28-80 28 80c9 32 36 32 44 0 13-51 42-101 50-139 11-52-11-86-58-86-25 0-46 13-64 13s-39-13-64-13Z" fill="#FFF2D5" stroke="#354754" stroke-width="11"/>
-      <path d="M294 205c39-45 102-45 141 0-39 45-102 45-141 0Z" fill="#B9E2E4" stroke="#354754" stroke-width="10"/>
+      <path d="M294 205c39-45 102-45 141 0-39 45-102 45-141 0Z" fill="#F3DDAE" stroke="#354754" stroke-width="10"/>
       <circle cx="365" cy="205" r="22" fill="#D89752" stroke="#354754" stroke-width="8"/>
     </svg>

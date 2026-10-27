@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/晚晚/保健营养"><title>支出/晚晚/保健营养</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/><g transform="translate(91 103) scale(1.04)">
   <path d="M92 30h116v45H92Z" fill="#D89752" stroke="#354754" stroke-width="10"/>
-  <path d="M105 75h90c24 0 38 15 38 38v139H67V113c0-23 14-38 38-38Z" fill="#B9E2E4" stroke="#354754" stroke-width="11"/>
+  <path d="M105 75h90c24 0 38 15 38 38v139H67V113c0-23 14-38 38-38Z" fill="#F3DDAE" stroke="#354754" stroke-width="11"/>
   <path d="M83 135h134v93H83Z" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
 </g>
       <path d="M246 256c-12-26-52-16-48 15 3 23 27 40 48 60 21-20 45-37 48-60 4-31-36-41-48-15Z" fill="#D89752" stroke="#354754" stroke-width="8"/>
-      <path d="M339 294c-32-9-51 4-55 31 30 8 49-2 55-31Z" fill="#B9E2E4" stroke="#354754" stroke-width="7"/>
+      <path d="M339 294c-32-9-51 4-55 31 30 8 49-2 55-31Z" fill="#F3DDAE" stroke="#354754" stroke-width="7"/>
       <path d="M284 325c19-9 29-14 39-19" fill="none" stroke="#354754" stroke-width="6" stroke-linecap="round"/>
     </svg>

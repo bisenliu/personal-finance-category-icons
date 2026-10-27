@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收入/其他"><title>收入/其他</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M100 207h250v167H100c-20 0-35-16-35-36v-95c0-20 15-36 35-36Z" fill="#B9E2E4" stroke="#354754" stroke-width="12"/>
+      <path d="M100 207h250v167H100c-20 0-35-16-35-36v-95c0-20 15-36 35-36Z" fill="#DCE3DF" stroke="#354754" stroke-width="12"/>
       <path d="M115 178h200v29H115Z" fill="#FFF2D5" stroke="#354754" stroke-width="9"/>
       <path d="M282 254h112v75H282c-17 0-30-13-30-30v-15c0-17 13-30 30-30Z" fill="#FFF2D5" stroke="#354754" stroke-width="10"/>
       <circle cx="315" cy="291" r="9" fill="#D89752"/>
