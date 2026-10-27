@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="支出/口腹之欲/火锅" role="img" viewBox="0 0 512 512"><title>支出/口腹之欲/火锅</title><ellipse cx="256" cy="430" fill="#354754" opacity=".13" rx="180" ry="17" /><svg fill="none" height="408" stroke="#354754" stroke-linecap="round" stroke-linejoin="round" stroke-width=".68" viewBox="0 0 24 24" width="408" x="52" y="40"><g stroke="none"><path d="m8.86 6.78-.45-1.81a2 2 0 0 1 1.45-2.43l1.94-.48a2 2 0 0 1 2.43 1.46l.45 1.8" fill="#F3D2C2" /></g><g fill="none"><path d="M2 12h20" /><path d="M20 12v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8" /><path d="m4 8 16-4" /><path d="m8.86 6.78-.45-1.81a2 2 0 0 1 1.45-2.43l1.94-.48a2 2 0 0 1 2.43 1.46l.45 1.8" /></g></svg></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/口腹之欲/火锅">
+  <title>支出/口腹之欲/火锅</title>
+  <ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+  <path d="M178 138c-16-17 15-24 0-43m78 43c-16-17 15-24 0-43m78 43c-16-17 15-24 0-43" fill="none" stroke="#D89752" stroke-width="10" stroke-linecap="round"/>
+  <path d="M111 233H75v24h36m290-24h36v24h-36" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M117 230v36c0 65 51 116 139 116s139-51 139-116v-36Z" fill="#F3D2C2" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M215 381h82" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="256" cy="231" rx="139" ry="59" fill="#FFF2D5"/>
+  <clipPath id="broth"><ellipse cx="256" cy="231" rx="139" ry="59"/></clipPath>
+  <path d="M110 168h146c-31 16-31 43 0 63s31 43 0 63H110Z" fill="#D89752" clip-path="url(#broth)"/>
+  <ellipse cx="256" cy="231" rx="139" ry="59" fill="none" stroke="#354754" stroke-width="11"/>
+  <path d="M256 172c-31 16-31 43 0 59s31 43 0 59" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="184" cy="225" r="11" fill="#FFF2D5" stroke="#354754" stroke-width="6"/>
+  <path d="m171 250 15 7 14-7m-3-57 14-7" fill="none" stroke="#FFF2D5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="328" cy="216" r="12" fill="#F3D2C2" stroke="#354754" stroke-width="6"/>
+  <path d="M302 255q14-16 29 0m13-6 13-10" fill="none" stroke="#354754" stroke-width="7" stroke-linecap="round"/>
+  <path d="M229 383h54v22h-54Z" fill="#D89752" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M216 408h80" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+</svg>
