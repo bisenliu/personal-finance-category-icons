@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/住房/物业费"><title>支出/住房/物业费</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="m130 170 126-80 126 80v206H130V170Z" fill="#CDE3CD" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+      <path d="m130 170 126-80 126 80v206H130V170Z" fill="#F3D2C2" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
       <path d="m116 176 140-92 140 92" fill="none" stroke="#354754" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
       <rect x="171" y="190" width="52" height="49" rx="5" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>
       <rect x="289" y="190" width="52" height="49" rx="5" fill="#FFF2D5" stroke="#354754" stroke-width="8"/>

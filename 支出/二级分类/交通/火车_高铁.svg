@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/交通/火车/高铁"><title>支出/交通/火车/高铁</title><ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
-      <path d="M78 157h276c55 0 88 41 88 91v76H82c-18 0-30-14-30-31V188c0-18 10-31 26-31Z" fill="#DCE3DF" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
-      <path d="M94 186h221c48 0 73 20 91 56H84l10-56Z" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
-      <path d="M128 186v56m56-56v56m57-56v56m58-56v56" stroke="#354754" stroke-width="6"/>
-      <path d="M81 325h357M99 352h312" stroke="#354754" stroke-width="10" stroke-linecap="round"/>
-      <circle cx="150" cy="326" r="18" fill="#D89752" stroke="#354754" stroke-width="7"/>
-      <circle cx="352" cy="326" r="18" fill="#D89752" stroke="#354754" stroke-width="7"/>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/交通/火车/高铁">
+  <title>支出/交通/火车/高铁</title>
+  <ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+  <path d="M79 153h208c63 0 111 40 149 101l35 40c13 15 3 32-19 32H81c-19 0-29-11-29-29V180c0-18 10-27 27-27Z" fill="#F9FCF7" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M91 185h193v50H91Z" fill="#DCE3DF" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M139 185v50m48-50v50m48-50v50" stroke="#354754" stroke-width="7"/>
+  <path d="M313 186c43 12 74 39 99 78h-99c-7 0-11-5-11-12v-54c0-9 3-14 11-12Z" fill="#DCE3DF" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M75 279h272c37 0 72 8 101 25" fill="none" stroke="#D89752" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="445" cy="294" r="7" fill="#D89752"/>
+  <path d="M110 326v19h77v-19m144 0v19h77v-19" fill="#354754" stroke="#354754" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M66 374h384M103 396h310m-281-22v22m111-22v22m111-22v22" fill="none" stroke="#354754" stroke-width="9" stroke-linecap="round"/>
+</svg>
