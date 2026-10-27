@@ -161,7 +161,7 @@ def main():
         contact_sheet(f"{flow}分类图标  ·  {len(selected)} 个", selected, f"预览-{flow}.png", 8)
     indexed = {(item["收支"], item["一级分类"], item["二级分类"]): item for item in items}
     adjusted = []
-    for text in (ROOT / "图标调整清单.md").read_text(encoding="utf-8").splitlines():
+    for text in (ROOT / "docs/changes/2026-10-27-shape-adjustments.md").read_text(encoding="utf-8").splitlines():
         match = re.match(r"- \*\*(.*?)\*\*", text)
         if match:
             parts = match[1].split(" → ")
