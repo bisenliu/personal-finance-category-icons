@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1110" role="img" aria-label="帐本封面：树下的河岸草地">
+  <title>帐本封面：树下的河岸草地</title>
+  <rect width="900" height="1110" fill="#E8F3EC"/>
+  <circle cx="145" cy="205" r="78" fill="#FFF2D5"/>
+  <path d="M0 614c125-70 247-67 348-23 134-58 240-39 339 15 76-27 146-23 213 9v204H0Z" fill="#CDE3CD"/>
+  <path d="M0 699c171-24 293-12 422 10 178-33 328-24 478 3v126c-155-28-312-27-478 5-156-30-280-27-422-1Z" fill="#B9E2E4"/>
+  <path d="M49 748c92-14 173-13 252 0m158 11c74-11 154-12 225-4" fill="none" stroke="#F9FCF7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M0 831c172-43 298-30 428 3 175-45 332-32 472 8v268H0Z" fill="#CDE3CD"/>
+  <path d="M0 940c148-39 271-24 414 12 177-42 327-26 486 9v149H0Z" fill="#A9D3A5"/>
+
+  <ellipse cx="640" cy="916" rx="205" ry="22" fill="#354754" opacity=".13"/>
+  <path d="M566 908c42-142 52-269 49-395-76-44-129-99-163-161l58-31c38 54 91 94 148 126 59-40 108-90 145-149l62 32c-45 88-108 155-188 209 3 125 24 246 73 369Z" fill="#F3D2C2" stroke="#354754" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M640 578c5 103-6 203-26 289m59-309c6 116 24 215 46 306" fill="none" stroke="#D89752" stroke-width="11" stroke-linecap="round"/>
+
+  <path d="M103 236c-3-62 57-105 112-91 23-60 101-81 154-44 51-66 152-57 189 11 68-45 157-13 169 63 77-10 136 55 112 122 54 53 22 135-44 146 2 79-84 121-143 71-47 62-135 58-179 4-53 52-131 37-154-30-68 34-138-1-144-72-73-1-115-83-72-143Z" fill="#CDE3CD" stroke="#354754" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M155 192c25-46 81-52 118-23 32-55 103-66 150-26 36-46 118-41 147 18 54-28 116-1 127 53 65-9 104 42 88 95-44-23-94-10-118 27-41-29-100-14-115 35-52-22-105-1-119 50-48-28-116-8-128 48-45-19-91 1-108 37-64-13-87-74-51-120-40-38-36-101 9-134Z" fill="#B3D8AF"/>
+  <path d="M104 381c39-43 99-45 139-9 36-47 109-45 145-3 49-37 118-15 134 41 56-23 114 6 117 62 54-28 122 6 122 64-42 47-106 42-143 0-51 42-120 30-147-24-54 31-117 13-135-41-63 24-121-8-127-62-45 18-88 9-105-28Z" fill="#A7D0A8" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M211 261c25-19 57-19 81 0m373-15c23-15 54-12 73 5m-290 203c23-16 55-13 74 5" fill="none" stroke="#80B78E" stroke-width="11" stroke-linecap="round"/>
+  <path d="M309 236c11-19 34-29 54-22-9 22-28 32-54 22Zm287 89c10-17 31-24 48-17-9 20-26 28-48 17Z" fill="#F9FCF7"/>
+
+  <path d="M72 965h265v22H72Zm19 22h23v73H91Zm223 0h23v73h-23Z" fill="#FFF2D5" stroke="#354754" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M92 953h225" fill="none" stroke="#D89752" stroke-width="12" stroke-linecap="round"/>
+  <path d="M409 1013h38m357-14h35" fill="none" stroke="#80B78E" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="457" cy="1033" r="8" fill="#D89752"/>
+  <circle cx="479" cy="1043" r="6" fill="#FFF2D5"/>
+</svg>

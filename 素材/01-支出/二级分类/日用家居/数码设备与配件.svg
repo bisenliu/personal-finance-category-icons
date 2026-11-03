@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="支出/日用家居/数码设备与配件">
+  <title>支出/日用家居/数码设备与配件</title>
+  <ellipse cx="256" cy="430" rx="180" ry="17" fill="#354754" opacity=".13"/>
+  <rect x="67" y="129" width="278" height="203" rx="19" fill="#DCE3DF" stroke="#354754" stroke-width="12"/>
+  <rect x="89" y="151" width="234" height="159" rx="7" fill="#F9FCF7" stroke="#354754" stroke-width="8"/>
+  <path d="M68 332h283l24 43c5 10-2 21-13 21H58c-11 0-18-11-13-21Z" fill="#FFF2D5" stroke="#354754" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M179 365h64" fill="none" stroke="#D89752" stroke-width="9" stroke-linecap="round"/>
+  <rect x="324" y="178" width="116" height="196" rx="20" fill="#FFF2D5" stroke="#354754" stroke-width="12"/>
+  <rect x="339" y="201" width="86" height="137" rx="5" fill="#DCE3DF" stroke="#354754" stroke-width="7"/>
+  <circle cx="382" cy="355" r="7" fill="#D89752"/>
+</svg>
