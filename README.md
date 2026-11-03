@@ -16,6 +16,10 @@
 - 带儿童肖像的 5 个分类同时提供 `(女)`、`(男)` 两套 SVG/PNG；`分类清单.csv` 默认指向女版，男版见 `预览-子女变体.png`。
 - 采用透明背景、深色粗描边、奶油色辅色、橙色强调与底部阴影的物件插画风格。一级分类在浅青、暖黄、鼠尾草绿、柔粉、蜜桃和浅紫灰之间分配主色；二级分类从同一套低饱和配色中按物件含义选择颜色。
 - `日用家居`、`安全防护`、`乳品烘焙` 三张参考图的造型用于对应分类，颜色按分类配色统一。
-- 部分基础造型改绘自 Lucide，相关许可见 `Lucide-LICENSE.txt`。
+- 部分基础造型改绘自 Lucide，相关许可见 [Lucide-LICENSE.txt](Lucide-LICENSE.txt)。
 - 新增、调整与删除记录按日期保存在 [docs/changes/](docs/changes/)（每天一份）；造型调整对照预览见 `调整预览.png`。
 - 修改分类配色后，运行 `python3 scripts/apply_palette.py` 同步 PNG 与预览图（需要 Pillow 和 `rsvg-convert`）。
+
+## 许可
+
+本项目原创的代码、图标、页面素材及文档采用 [MIT License](LICENSE)。改绘自 Lucide 的部分同时保留其原始版权与许可声明，见 [Lucide-LICENSE.txt](Lucide-LICENSE.txt)。
